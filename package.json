@@ -1,0 +1,25 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "You can know weather for any region by postal code\r # Installation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamedOsama/Weather-Journal-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamedOsama/Weather-Journal-App/issues"
+  },
+  "homepage": "https://github.com/HamedOsama/Weather-Journal-App#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
