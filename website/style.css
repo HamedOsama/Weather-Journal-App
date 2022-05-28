@@ -1,7 +1,7 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     font-family: sans-serif;
-    background-image: url('https://images.unsplash.com/photo-1507939040444-21d4dca3781e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80');
+    background-image: url(./images/image.jpg);
     background-repeat: no-repeat;
     overflow: hidden;
     background-size: cover;
